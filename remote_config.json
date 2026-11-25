@@ -1,0 +1,29 @@
+{
+  "host": "alt.lasthavens.com",
+  "play_path": "/play",
+  "auth_ws_path": "/tcp/127.0.0.1/3724",
+  "world_ws_path": "/tcp/127.0.0.1/8085",
+  "init_cookie": "lhgate=1",
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 YaBrowser/26.11.0.0 Safari/537.36",
+  "manifest_lists": [
+    "login-blocks.txt",
+    "world-blocks.txt"
+  ],
+  "skip_base_mpq": [
+    "Data/common.MPQ",
+    "Data/common-2.MPQ",
+    "Data/expansion.MPQ",
+    "Data/lichking.MPQ",
+    "Data/patch.MPQ"
+  ],
+  "blacklist_files": [
+    "Data/ruRU/patch-ruRU-D.MPQ",
+    "Data/enUS/patch-enUS-D.MPQ"
+  ],
+  "extra_files": {},
+  "announcement": "",
+  "launcher_version": "1.0.0",
+  "launcher_download_url": "",
+  "launcher_changelog": "",
+  "force_update": false
+}
