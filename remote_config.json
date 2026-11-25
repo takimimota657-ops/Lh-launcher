@@ -20,7 +20,11 @@
     "Data/ruRU/patch-ruRU-D.MPQ",
     "Data/enUS/patch-enUS-D.MPQ"
   ],
-  "extra_files": {},
+  "extra_files": {
+    "Data/ruRU/patch-ruRU.MPQ": 613794676,
+    "Data/ruRU/patch-ruRU-2.MPQ": 270846455,
+    "Data/ruRU/patch-ruRU-3.MPQ": 109883630
+  },
   "announcement": "",
   "launcher_version": "1.0.0",
   "launcher_download_url": "",
