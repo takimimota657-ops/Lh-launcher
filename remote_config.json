@@ -26,8 +26,8 @@
     "Data/ruRU/patch-ruRU-3.MPQ": 109883630
   },
   "announcement": "",
-  "launcher_version": "1.1.1",
-  "launcher_download_url": "https://github.com/takimimota657-ops/Lh-launcher/releases/download/v1.1.1/LasthavensLauncher.exe",
-  "launcher_changelog": "Исправление мелких багов",
+  "launcher_version": "1.1.2",
+  "launcher_download_url": "https://github.com/takimimota657-ops/Lh-launcher/releases/download/v1.1.2/LasthavensLauncher.exe",
+  "launcher_changelog": "Английский язык в лаунчере",
   "force_update": false
 }
